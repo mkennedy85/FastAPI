@@ -28,7 +28,7 @@ The root endpoint (`/`) redirects to the Swagger documentation for easy access.
 ### Static Documentation
 
 For assignment submission and offline viewing, static API documentation is also available:
-- **GitHub Pages**: [View API Documentation](https://mkennedy.github.io/FastAPI/docs/) (hosted via GitHub Pages)
+- **GitHub Pages**: [View API Documentation](https://mkennedy85.github.io/FastAPI/api-docs) (hosted via GitHub Pages)
 - **Local HTML**: Open `docs/api-docs.html` in your browser after generating static docs
 
 ## Endpoints
