@@ -147,6 +147,14 @@ curl -X POST http://localhost:8000/hash \
   -d '{"string": "hello"}'
 ```
 
+## Screenshots
+
+### Server Running
+![Server Running](assets/server.png)
+
+### API Requests and Responses
+![API Requests](assets/requests.png)
+
 ## Dependencies
 
 - FastAPI - Web framework
