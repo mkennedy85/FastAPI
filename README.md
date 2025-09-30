@@ -19,11 +19,17 @@ The server will start at `http://localhost:8000`
 ## API Documentation
 
 Interactive API documentation is automatically generated and available at:
-- **Swagger UI**: `http://localhost:8000/docs`
-- **ReDoc**: `http://localhost:8000/redoc`
-- **OpenAPI JSON**: `http://localhost:8000/openapi.json`
+- **Swagger UI**: `http://localhost:8000/docs` (when running locally)
+- **ReDoc**: `http://localhost:8000/redoc` (when running locally)
+- **OpenAPI JSON**: `http://localhost:8000/openapi.json` (when running locally)
 
 The root endpoint (`/`) redirects to the Swagger documentation for easy access.
+
+### Static Documentation
+
+For assignment submission and offline viewing, static API documentation is also available:
+- **GitHub Pages**: [View API Documentation](https://mkennedy.github.io/FastAPI/docs/) (hosted via GitHub Pages)
+- **Local HTML**: Open `docs/api-docs.html` in your browser after generating static docs
 
 ## Endpoints
 
